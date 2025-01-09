@@ -12,9 +12,9 @@ This is a basic multi-threaded **Random Emoji Generator** built for Android. The
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035657.png" alt="Screenshot 1" width="300" />
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035716.png" alt="Screenshot 2" width="300" />
-  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035732.png" alt="Screenshot 3" width="300" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035657.png" alt="Screenshot 1" width=250" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035716.png" alt="Screenshot 2" width="250" />
+  <img src="https://raw.githubusercontent.com/Mohit-Hasan/Random-Emoji-Generator/refs/heads/main/repo_assets/Screenshot_20250110_035732.png" alt="Screenshot 3" width="250" />
 </div>
 
 
